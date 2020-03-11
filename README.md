@@ -10,6 +10,8 @@ Only following standard operations are allowed on queue.
 * size() : Returns number of elements in queue.
 * front() : Finds front item.
 
+# Invertir los primeros elementos N de una cola
+
 Dado un valor entero N y una Cola de números enteros, se requiere reversar el orden de los primeros N elementos manteniendo el mismo orden 
 para los demás elementos.
   * Debe realizar la implementación de la Cola utilizando una Lista Enlazada Simple y solo puede contener las siguientes operaciones:
